@@ -17,3 +17,4 @@ dependencies = [
 
 [project.optional-dependencies]
 tutorials = ["jupyter"]
+docs = [sphinx~=5.1]
