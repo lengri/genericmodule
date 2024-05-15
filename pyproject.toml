@@ -12,14 +12,7 @@ description = "Using this to understand Python modules"
 readme = "readme.md"
 requires-python = ">=3.7"
 dependencies = [
-  'numpy',
-  'scipy',
-  'matplotlib',
-  'pandas',
-  'scikit-spatial',
-  'rasterio',
-  'scikit-learn',
-  'typing_extensions'
+  'numpy'
 ]
 
 [project.optional-dependencies]
