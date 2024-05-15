@@ -1,2 +1,2 @@
-#from genericmodule.functions_a import *
-#from genericmodule.functions_b import *
+from .functions_a import *
+from .functions_b import *
