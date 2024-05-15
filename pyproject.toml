@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genericmodule"
+version = "0.0.0"
+authors = [
+  { name="Lennart Grimm" },
+]
+description = "Using this to understand Python modules"
+readme = "readme.md"
+requires-python = ">=3.7"
+dependencies = [
+  'numpy',
+  'scipy',
+  'matplotlib',
+  'pandas',
+  'scikit-spatial',
+  'rasterio',
+  'scikit-learn',
+  'typing_extensions'
+]
+
+[project.optional-dependencies]
+tutorials = ["jupyter"]
