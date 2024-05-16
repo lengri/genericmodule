@@ -8,7 +8,9 @@ Welcome to genericmodule's documentation!
 
 I am using this to figure out how to set up proper
 documentation for another project. This project prepares
-the release of `foo <https://www.youtube.com/watch?v=dQw4w9WgXcQ>`_
+the release of `foo <https://world.openfoodfacts.org/>`_ and will be
+removed again in the future.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
