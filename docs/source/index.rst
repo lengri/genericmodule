@@ -15,6 +15,15 @@ removed again in the future.
    :maxdepth: 2
    :caption: Contents:
 
+   about
+   install
+   diffusion_equations
+   licence
+
+   .. automodule:: genericmodule.functions_a
+      :members:
+   .. automodule:: genericmodule.functions_b
+      :members:
 
 
 Indices and tables
