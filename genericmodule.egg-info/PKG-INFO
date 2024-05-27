@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: genericmodule
+Version: 0.0.0
+Summary: Using this to understand Python modules
+Author: Lennart Grimm
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Provides-Extra: tutorials
+Requires-Dist: jupyter; extra == "tutorials"
+Provides-Extra: docs
+Requires-Dist: sphinx~=5.1; extra == "docs"
+Requires-Dist: nbsphinx~=0.8; extra == "docs"
+Requires-Dist: nbsphinx_link~=1.3; extra == "docs"
+Requires-Dist: sphinx-rtd-theme~=1.0; extra == "docs"

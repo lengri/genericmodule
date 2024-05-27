@@ -19,11 +19,8 @@ removed again in the future.
    install
    diffusion_equations
    licence
-
-   .. automodule:: genericmodule.functions_a
-      :members:
-   .. automodule:: genericmodule.functions_b
-      :members:
+   genericmodule
+   modules
 
 
 Indices and tables

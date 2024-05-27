@@ -1,0 +1,10 @@
+pyproject.toml
+readme.md
+genericmodule/__init__.py
+genericmodule/functions_a.py
+genericmodule/functions_b.py
+genericmodule.egg-info/PKG-INFO
+genericmodule.egg-info/SOURCES.txt
+genericmodule.egg-info/dependency_links.txt
+genericmodule.egg-info/requires.txt
+genericmodule.egg-info/top_level.txt

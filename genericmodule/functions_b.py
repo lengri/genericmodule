@@ -3,7 +3,7 @@ def fun_b(x, y, z):
     This is fun_b doc.
     
     Parameters:
-    -----
+    -----------
         x: float
             Value 1
         y: float
@@ -12,7 +12,7 @@ def fun_b(x, y, z):
             Value 3
             
     Returns:
-    -----
+    --------
         r: float
             The return value
     """
