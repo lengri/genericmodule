@@ -6,6 +6,7 @@
 Welcome to genericmodule's documentation!
 =========================================
 
+Version: 27.05.2024
 I am using this to figure out how to set up proper
 documentation for another project. This project prepares
 the release of `foo <https://world.openfoodfacts.org/>`_ and will be
