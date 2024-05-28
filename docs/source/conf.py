@@ -6,14 +6,14 @@
 # Add documentation stored in other directories
 import os
 import sys
-#sys.path.insert(0, r"C:\Users\Lennart\lennartGit\personal\genericmodule")
-#sys.path.insert(0, os.path.abspath('./../'))
-#sys.path.insert(0, os.path.abspath('..\..'))
+
+# couldn't get any other way to work, so 
+# this should guarantee that sphinx is able
+# to find the dir
 p1 = os.path.dirname(os.path.realpath(__file__))
 p2 = "..\.."
 sys.path.insert(0, os.path.join(p1, p2))
-#print(sys.path)
-#import genericmodule.functions_a
+
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information

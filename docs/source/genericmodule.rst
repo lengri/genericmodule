@@ -1,10 +1,11 @@
 genericmodule package
 =====================
 
-Submodules
-----------
 
-genericmodule.functions\_a module
+.. Submodules
+.. ----------
+
+genericmodule.functions\_a
 ---------------------------------
 
 .. automodule:: genericmodule.functions_a
@@ -12,7 +13,7 @@ genericmodule.functions\_a module
    :undoc-members:
    :show-inheritance:
 
-genericmodule.functions\_b module
+genericmodule.functions\_b
 ---------------------------------
 
 .. automodule:: genericmodule.functions_b
@@ -20,10 +21,10 @@ genericmodule.functions\_b module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
+.. Module contents
+.. ---------------
 
-.. automodule:: genericmodule
+.. .. automodule:: genericmodule
    :members:
    :undoc-members:
    :show-inheritance:

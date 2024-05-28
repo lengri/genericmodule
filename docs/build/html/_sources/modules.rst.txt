@@ -1,7 +1,7 @@
-genericmodule
-=============
+.. genericmodule
+.. =============
+..
+   .. toctree::
+      :maxdepth: 4
 
-.. toctree::
-   :maxdepth: 4
-
-   genericmodule
+      genericmodule
